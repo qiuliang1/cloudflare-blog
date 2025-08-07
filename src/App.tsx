@@ -55,7 +55,7 @@ console.log('Hello, World!');
   const [collapsed, setCollapsed] = useState(false);
 
   const {
-    token: { colorBgContainer, borderRadiusLG },
+    token: { colorBgContainer },
   } = theme.useToken();
 
   const handlePostSelect = (post: BlogPost) => {
