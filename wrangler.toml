@@ -1,2 +1,4 @@
-name = "blog-project"
-compatibility_date = "2024-01-01"
+name = "blog-pro"
+main = "src/index.tsx"
+[assets]
+directory = "./build"
