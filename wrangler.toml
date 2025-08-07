@@ -1,5 +1,5 @@
 name = "blog-pro"
-main = "src/index.tsx"
+main = "worker/index.ts"
 compatibility_date = "2025-08-07"
 [assets]
-directory = "./build"
+directory = "./build" 
